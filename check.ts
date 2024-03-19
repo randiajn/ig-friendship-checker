@@ -12,8 +12,8 @@ import {
 DotEnv.config({ path: '.env' });
 
 const {
-  IG_USERNAME = '',
-  IG_PASSWORD = ''
+  IG_USERNAME = 'randiajn',
+  IG_PASSWORD = '199Tujuh'
 } = process.env;
 
 /**
